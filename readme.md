@@ -1,5 +1,5 @@
-# testrepo
+# LEARN-JUPYTER
 
-## editing the file
+## TRYING GITHUB
 
 This is my first time create a Git. Fingercrossed!
